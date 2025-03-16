@@ -23,25 +23,6 @@ Let me know if you'd like any tweaks! 🚀
 
 ---
 
-## 📂 Folder Structure  
-```
-📦 Intel-AI-Certification
-├── 📁 Course_Materials
-├── 📁 Assignments
-│   ├── Week-1
-│   ├── Week-2
-│   ├── Week-3
-│   ├── Week-4
-│   ├── ...
-├── 📁 Datasets
-│   ├── Raw_Data
-│   ├── Processed_Data
-├── 📁 Reports
-└── README.md
-```
-
----
-
 ## 🔍 Key Learning Areas  
 ✅ **Exploratory Data Analysis (EDA)**  
 ✅ **Data Cleaning & Preprocessing**  
@@ -50,35 +31,3 @@ Let me know if you'd like any tweaks! 🚀
 ✅ **AI-driven Predictive Modeling**  
 
 ---
-
-## 📥 Installation & Usage  
-1️⃣ **Clone the Repository:**  
-```bash
-git clone https://github.com/AyanMemon296/Intel-AI-Certification.git
-```
-2️⃣ **Navigate to the directory:**  
-```bash
-cd Intel-AI-Certification
-```
-3️⃣ **Open Jupyter Notebook:**  
-```bash
-jupyter notebook
-```
-4️⃣ **Explore the Notebooks & Datasets**  
-
----
-
-## 📌 How to Contribute?  
-🙌 Contributions are welcome! Feel free to:  
-✅ Submit pull requests for improvements  
-✅ Report issues or suggest enhancements  
-
----
-
-## 📜 License  
-📄 This project is licensed under the **MIT License** – feel free to use and modify.  
-
----
-
-🚀 **Happy Learning & AI Innovation!** 💡✨  
-
