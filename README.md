@@ -32,8 +32,7 @@ Let me know if you'd like any tweaks! 🚀
 
 ---
 
-## 👨‍💻 Created by  
-**Ayan Memon**  
+## 👨‍💻 Created by - **Ayan Memon**  
 
 ---
 
