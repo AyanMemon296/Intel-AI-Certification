@@ -13,7 +13,6 @@ This repository is structured to help you navigate through different modules of 
 - 🗂️ **Datasets** – Processed and raw datasets for AI-based manufacturing tasks.  
 - 📓 **Notebooks** – Jupyter Notebooks for data handling and model development.  
 
-Let me know if you'd like any tweaks! 🚀
 ---
 
 ## 🛠 Technologies & Tools  
