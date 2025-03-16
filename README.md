@@ -31,3 +31,13 @@ Let me know if you'd like any tweaks! 🚀
 ✅ **AI-driven Predictive Modeling**  
 
 ---
+
+## 👨‍💻 Created by  
+**Ayan Memon**  
+
+---
+
+## 📜 License  
+This repository is for educational purposes. Feel free to explore and use the materials.  
+
+---  
