@@ -1,41 +1,82 @@
-# 🏭🤖 Intel® AI for Manufacturing Certification  
+# 🏭🤖 Intel® AI for Manufacturing Certification Course
 
-🚀 **Welcome to the Intel® AI for Manufacturing Certification Repository!** This repository contains course materials, assignments, datasets, and Jupyter Notebooks, covering AI applications in manufacturing, data handling, machine learning, and predictive modeling.  
-
----
-
-## 📌 Repository Overview  
-This repository is structured to help you navigate through different modules of the **Intel® AI for Manufacturing Certificate Course** efficiently.  
-
-📂 **Contents:**  
-- 📑 **Assignments** – Course assignments with well-documented solutions.  
-- 📊 **Reports** – PDF/Word reports summarizing analysis and findings.
-- 🗂️ **Datasets** – Processed and raw datasets for AI-based manufacturing tasks.  
-- 📓 **Notebooks** – Jupyter Notebooks for data handling and model development.  
+Welcome to the official repository for the **Intel® AI for Manufacturing Certificate Course**, completed by **Ayan Memon**. This repository contains all course assignments, hands-on notebooks, trained models, and AI mini-projects developed throughout the program.
 
 ---
 
-## 🛠 Technologies & Tools  
-🔹 **Programming Language:** Python 🐍  
-🔹 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
-🔹 **Platform:** Jupyter Notebook 📓  
+## 📘 Course Overview
+
+The Intel® AI for Manufacturing course focuses on practical applications of Artificial Intelligence in industrial and business environments. It covers the end-to-end AI workflow including:
+
+- Data Collection and Exploration  
+- Data Preprocessing and Feature Engineering  
+- Model Building and Evaluation  
+- AI Deployment and Prediction  
+- Real-world Use Cases in Manufacturing and Marketing  
 
 ---
 
-## 🔍 Key Learning Areas  
-✅ **Exploratory Data Analysis (EDA)**  
-✅ **Data Cleaning & Preprocessing**  
-✅ **Feature Engineering**  
-✅ **Machine Learning for Manufacturing**  
-✅ **AI-driven Predictive Modeling**  
+## 📁 Repository Structure
+
+```
+
+Intel-AI-Certification/
+│
+├── Weekly_Assignments/
+├── Project/
+│ └── Predictive-Lead-Conversion-AI/
+│ ├── 01_Data_Exploration.ipynb
+│ ├── 02_Data_Preprocessing.ipynb
+│ ├── 03_Model_Training.ipynb
+│ ├── 04_Model_Evaluation.ipynb
+│ ├── 05_Model_Deployment.ipynb
+│ ├── 06_Prediction_Demo.ipynb
+│ ├── leads.csv
+│ ├── lead_model.pkl
+│ ├── model.joblib
+│ └── model_columns.pkl
+│
+└── README.md
+
+```
 
 ---
 
-## 👨‍💻 Created by - **Ayan Memon**  
+## 📌 Featured Project
+
+### 🔹 Predictive Lead Conversion AI
+
+**Objective**: Predict whether a lead will convert using metadata such as source, device, time on site, and pages visited.
+
+**Technologies Used**:
+- Python (Jupyter Notebooks)
+- Pandas, Scikit-learn
+- Logistic Regression
+- Model saving using `joblib` and `pickle`
+
+📂 [View Project Folder](./Project/Predictive-Lead-Conversion-AI)
 
 ---
 
-## 📜 License  
-This repository is for educational purposes. Feel free to explore and use the materials.  
+## 🛠 Tools and Libraries
 
----  
+- Python 3.10+
+- Jupyter Notebook
+- Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib
+- Joblib, Pickle
+
+---
+
+## 👤 Author
+
+Created and maintained by:
+
+**Ayan Memon**  
+Intel® AI for Manufacturing Certificate Participant  
+GitHub: [AyanMemon296](https://github.com/AyanMemon296)
+
+---
+
+## 📄 License
+
+This project is created for educational purposes under the Intel AI Certification initiative. You are free to explore and use the code for learning and non-commercial purposes.
