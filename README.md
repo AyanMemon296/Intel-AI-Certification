@@ -1,44 +1,18 @@
 # 🏭🤖 Intel® AI for Manufacturing Certification Course
 
-Welcome to the official repository for the **Intel® AI for Manufacturing Certificate Course**, completed by **Ayan Memon**. This repository contains all course assignments, hands-on notebooks, trained models, and AI mini-projects developed throughout the program.
-
----
-
-## 📘 Course Overview
-
-The Intel® AI for Manufacturing course focuses on practical applications of Artificial Intelligence in industrial and business environments. It covers the end-to-end AI workflow including:
-
-- Data Collection and Exploration  
-- Data Preprocessing and Feature Engineering  
-- Model Building and Evaluation  
-- AI Deployment and Prediction  
-- Real-world Use Cases in Manufacturing and Marketing  
+This repository contains my work for the **Intel® AI for Manufacturing Certification Course**, a national-level program supported by **Intel**, **GCCI**, and the **Digital Readiness Team**. The course focuses on applying artificial intelligence to solve real-world manufacturing problems using modern AI/ML tools and platforms.
 
 ---
 
 ## 📁 Repository Structure
 
-```
-
-Intel-AI-Certification/
-│
-├── Weekly_Assignments/
-├── Project/
-│ └── Predictive-Lead-Conversion-AI/
-│ ├── 01_Data_Exploration.ipynb
-│ ├── 02_Data_Preprocessing.ipynb
-│ ├── 03_Model_Training.ipynb
-│ ├── 04_Model_Evaluation.ipynb
-│ ├── 05_Model_Deployment.ipynb
-│ ├── 06_Prediction_Demo.ipynb
-│ ├── leads.csv
-│ ├── lead_model.pkl
-│ ├── model.joblib
-│ └── model_columns.pkl
-│
-└── README.md
-
-```
+| Folder / File                  | Description                                                                |
+|--------------------------------|----------------------------------------------------------------------------|
+| [`Project/`](./Project)        | Contains complete AI projects developed during the course                 |
+| [`Weekly_Assignments/`](./Weekly_Assignments) | All weekly tasks, notes, and submitted assignments               |
+| `AI4MFG-Schedule_and_Topics.pdf` | Official course schedule and topic list from the program organizers     |
+| `Python_Requirements.txt`      | Setup dependencies required for local development and testing            |
+| `README.md`                    | Main readme describing this repository                                    |
 
 ---
 
@@ -52,9 +26,9 @@ Intel-AI-Certification/
 - Python (Jupyter Notebooks)
 - Pandas, Scikit-learn
 - Logistic Regression
-- Model saving using `joblib` and `pickle`
 
-📂 [View Project Folder](./Project/Predictive-Lead-Conversion-AI)
+📂 [View Project Folder](./Project/Predictive-Lead-Conversion)  
+🚀 [Live App Deployment](https://predictive-lead-conversion.streamlit.app/)
 
 ---
 
@@ -63,20 +37,26 @@ Intel-AI-Certification/
 - Python 3.10+
 - Jupyter Notebook
 - Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib
-- Joblib, Pickle
+- Pickle
 
 ---
 
-## 👤 Author
+## 📌 About the Certification
 
-Created and maintained by:
+The **Intel® AI for Manufacturing Certification** enables participants to solve industry-defined problems using AI. It combines hands-on training with industry mentorship to build practical, deployable solutions for modern manufacturing challenges.
+
+---
+
+## 👨‍💻 Created By
 
 **Ayan Memon**  
-Intel® AI for Manufacturing Certificate Participant  
-GitHub: [AyanMemon296](https://github.com/AyanMemon296)
+🔗 GitHub: [github.com/AyanMemon296](https://github.com/AyanMemon296)  
+🔗 LinkedIn: [linkedin.com/in/ayanmemon296](https://linkedin.com/in/ayanmemon296)
 
 ---
 
 ## 📄 License
 
 This project is created for educational purposes under the Intel AI Certification initiative. You are free to explore and use the code for learning and non-commercial purposes.
+
+---
