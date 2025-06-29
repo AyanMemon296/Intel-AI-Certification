@@ -24,13 +24,18 @@ Simply enter sample lead engagement data into the app and receive an instant pre
 
 ```plaintext
 Predictive-Lead-Conversion/
-├── Leads.csv                    # Dataset used for model training
-├── LeadConversion_Final.ipynb  # Complete notebook (from EDA to deployment)
-├── app.py                      # Streamlit web application script
-├── lead_model.pkl              # Trained logistic regression model
-├── model_columns.pkl           # Saved input feature structure
-├── requirements.txt            # Python dependencies for Streamlit app
-├── README.md                   # This file
+├── Leads.csv                                     # Dataset used for model training
+├── LeadConversion_Final.ipynb                    # Complete Jupyter Notebook (EDA to deployment)
+├── app.py                                        # Streamlit web application script
+├── lead_model.pkl                                # Trained logistic regression model (Pickle format)
+├── model_columns.pkl                             # Pickle file to retain input feature structure
+├── requirements.txt                              # Python dependencies for running the app
+├── Predictive_Lead_Conversion_Report.docx        # Final project report (DOCX)
+├── Predictive_Lead_Conversion_Report.pdf         # Final project report (PDF)
+├── Predictive_Lead_Conversion_Presentation.pptx  # Project presentation (PowerPoint)
+├── Predictive_Lead_Conversion_Presentation.pdf   # Project presentation (PDF)
+├── README.md                                     # Project overview and usage guide
+
 ````
 
 ---
